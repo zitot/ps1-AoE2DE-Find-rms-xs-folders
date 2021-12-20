@@ -1,5 +1,5 @@
 # ps1-AoE2DE-Find-rms-xs-folders
-powershell script to give the user a GUI to select the random-map-scripts folder, xs scripts folder, and then create shortcuts to those folders locally. 
+powershell script to give the user a graphical browse dialog. User can select the random-map-scripts folder, xs scripts folder, and the script will then create shortcuts to those folders locally. 
 
 
 Credits
